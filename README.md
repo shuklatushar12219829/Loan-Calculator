@@ -4,7 +4,7 @@ This is a web application developed using Angular that allows users to calculate
 
 ## Features
 
-- Simulate loans for different loan types (Casa, Carro, Pessoal).
+- Simulate loans for different loan types (Car, Home, Personal).
 - Input loan amount, interest rate, and loan term.
 - Display the calculated loan details, including the total amount to be paid and the interest to be paid.
 - Visualize the loan details using a bar graph.
